@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2395" started-at="2020-11-19T17:30:21Z" finished-at="2020-11-19T17:30:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2395" started-at="2020-11-19T17:30:21Z" finished-at="2020-11-19T17:30:24Z">
+      <class name="APIAutomation.APITestCase">
+        <test-method status="PASS" signature="createUser()[pri:0, instance:APIAutomation.APITestCase@5622fdf]" name="createUser" duration-ms="2377" started-at="2020-11-19T23:00:21Z" finished-at="2020-11-19T23:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- APIAutomation.APITestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
